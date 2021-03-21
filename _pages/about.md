@@ -14,20 +14,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Gustav 👋  I'm a software developer and MSc in Computer Science from University of Copenhagen, Denmark. My passion for programming started early in my life, where I would make modifications to my favorite video games. I later knew that I wanted pursue the path of becoming a software developer, which is why I decided to get a master's in Computer Science.
+Hi there, I'm Gustav 👋  I'm a software developer based in Copenhagen, Denmark. My passion for programming started early in my life, where I would make modifications to my favorite video games. I later knew that I wanted pursue the path of becoming a software developer, which is why I decided to get a master's in Computer Science.
 
 <h2>technical skills</h2>
 I am experienced in the following technologies:
 <ul>
-  <li>C# .NET</li>
-  <li>Angular</li>
-  <li>Python</li>
+  <li>C# .NET, Java, C, Python</li>
+  <li>Angular, TypeScript, JavaScript, HTML, CSS</li>
   <li>Version Control: Git, SVN</li>
-  <li>Tools: Visual Studio, Webstorm,</li>
+  <li>Tools: Visual Studio, Webstorm, VSCode</li>
 </ul>
 
 <h2>hobbies</h2>
-In my spare time, I enjoy taking photos, keeping myself fit. I'm an avid traveler as well and love exploring new places.
+In my spare time, when I'm not working on my hobby projects, I enjoy taking photos and keeping myself fit. I'm an avid traveler and love exploring new places. In 2020, my favorite destinations I visited were Barcelona and Lisbon.
 
 
 <!-- 
