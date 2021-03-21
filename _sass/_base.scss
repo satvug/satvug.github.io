@@ -111,6 +111,7 @@ a, table.table a {
   .contact-icon {
     font-size: 2rem;
     a {
+      color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
       }
