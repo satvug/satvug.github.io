@@ -27,7 +27,15 @@ I am experienced in the following technologies:
 
 <h2>hobbies</h2>
 In my spare time, when I'm not working on my <a href="{{ '/projects/' | relative_url }}">hobby programming projects</a>
-, I enjoy taking photos and keeping myself fit. I'm also an avid traveler and love exploring new places. In 2020, my favorite destinations I visited were Barcelona and Lisbon.
+, I enjoy taking photos and keeping myself fit. I'm also an avid traveler and love exploring new places. In 2020, my favorite destinations were Barcelona and Lisbon.
+
+<h2>education</h2>
+<b>MSc in Computer Science, University of Copenhagen, Denmark, 2019</b>
+<ul>
+  <li> General profile with courses in software engineering, machine learning and computer security. </li>
+  <li> As part of this programme, I completed one semester at University of Amsterdam, The Netherlands. </li>
+</ul>
+<b>BSc in Computer Science, University of Copenhagen, Denmark, 2017</b>
 
 
 <!-- 
