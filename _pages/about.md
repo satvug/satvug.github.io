@@ -35,5 +35,9 @@ I'm also an avid traveler and love exploring new places. In 2020, my favorite de
 <ul>
   <li> General profile with courses in software engineering, machine learning and computer security. </li>
   <li> As part of this programme, I completed one semester at University of Amsterdam, The Netherlands. </li>
+  <li> Thesis: <i>Security analysis of the Maritime Connectivity Platform</i></li>
 </ul>
 <b>BSc in Computer Science, University of Copenhagen, Denmark, 2017</b>
+<ul>
+  <li>Thesis: <i>Fuzzing and AFL - An Introduction to Fuzz Testing with American Fuzzy Lop</i></li>
+</ul>
