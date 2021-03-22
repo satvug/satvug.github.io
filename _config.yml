@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Gustav Brieghel Jensen | Software Developer # the website title (if blank, full name will be used instead)
 first_name: Gustav
 middle_name: Brieghel
 last_name: Jensen
@@ -163,7 +163,7 @@ enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            false
-show_social_icons:          true
+show_social_icons:          false
 
 # -----------------------------------------------------------------------------
 # Library versions
